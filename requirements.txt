@@ -1,0 +1,5 @@
+Requirements :
+
+JAVA [jdk 18]
+Swing 
+AWT 
